@@ -1,3 +1,5 @@
+// Code provided by Trybe
+
 const { species } = require('../data/zoo_data');
 
 const getElephants = () =>
